@@ -1,1 +1,1 @@
-# Pneumonia-detection
+# Final-Year-Project
